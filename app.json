@@ -18,15 +18,15 @@
       },
       "GENERIC_TIMEZONE": {
         "description": "Time Zone to use with Heroku. You can find the name of your timezone here: https://momentjs.com/timezone/",
-        "value": "Europe/Berlin"
+        "value": "Asia/Kolkata"
       },
       "N8N_BASIC_AUTH_USER": {
         "description": "Basic Authentication User for n8n",
-        "value": "user"
+        "value": "der-ofenmeister"
       },
       "N8N_BASIC_AUTH_PASSWORD": {
         "description": "Basic Authentication Password to secure n8n.",
-        "value": "pass"
+        "value": "pass@123ABC"
       },
       "N8N_ENCRYPTION_KEY": {
         "description": "This is to set the n8n encryption key to a static value, so that heroku doesnt override it, causing AUTH to fail",
