@@ -7,7 +7,7 @@
       "automation"
     ],
     "website": "https://n8n.io",
-    "repository": "https://github.com/sarveshwarge/n8n-heroku",
+    "repository": "https://github.com/der-ofenmeister/n8n-heroku",
     "logo": "https://raw.githubusercontent.com/n8n-io/n8n/master/docs/images/n8n-logo.png",
     "success_url": "/",
     "stack": "container",
