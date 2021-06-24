@@ -32,6 +32,14 @@
         "description": "This is to set the n8n encryption key to a static value, so that heroku doesnt override it, causing AUTH to fail",
         "value": "MdRRn2jiZuVeh5tI77A6"
       },
+      "N8N_HOST": {
+        "description": "This is to set the n8n host domain",
+        "value": "withub-zap.herokuapp.com"
+      },
+      "WEBHOOK_TUNNEL_URL": {
+        "description": "To make sure webhooks don't give off localhost errors",
+        "value": "https://withub-zazp.herokuapp.com/"
+      },
       "PGSSLMODE": {
         "description": "Heroku made a change so SSL is required to connect to Postgres",
         "value": "require"
