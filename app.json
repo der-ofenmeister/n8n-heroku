@@ -38,7 +38,7 @@
       },
       "WEBHOOK_TUNNEL_URL": {
         "description": "To make sure webhooks don't give off localhost errors",
-        "value": "https://withub-zazp.herokuapp.com/"
+        "value": "https://withub-zap.herokuapp.com/"
       },
       "PGSSLMODE": {
         "description": "Heroku made a change so SSL is required to connect to Postgres",
